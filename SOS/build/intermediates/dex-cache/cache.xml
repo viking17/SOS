@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_54bb8e7253c664577ff0d65072211ab18436e872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_40bed67aff05af8efcf67b25c022a5a47db0869b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_f6170936df8f2f06dc03d4efc700dd4a6c7c4721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.0.0_0822d9bd5ec2765f5d69c7dff8bb75f3d8914a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.0_b98c2bb5da13751fd49759a9825a5a18f1b0cf43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.0_111b0540ac054fe5d94cfc3c972477dc6222c124.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.0.0_cf54364ee03db7c3fc7e5282a44583e1b6df4628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_8d918ac3653eb79e1dc2fc6dff7e1ebf5be2d2f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.0.0_cd7d1fa0771f96912a96039abd191a8b8e58fefe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.0.0_2201ddda4f5c35606fb7c57490bb66bd93e20619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.0.0_9234d0c7da4b804d31e4c00254e1d8f2b6b2fbd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.0.0_f412026c8a201013483ce58fb8e100b8045091e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.0_73a0219fe59bc42e2c0d1d9057b05a287150904c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.0_6820315264bb96ea54f27733e4f259f15b384126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.0_a333a3fc083daee6fe3e6ba9f80c362d14a2a375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_187b4087cb8e6bbe669f8c887c6720a2bdd62ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_89ba1257094b6cfe6410b9fe47bb9d78f89e6078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.0.0_cfb386143c30faf11472c41898c4542ecaa1ebdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.0_e70b7889ea0534bcce8f06523fdef63db6eb5636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_7e20c6d4e5069f3a7a49984a42f98cb375966fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_38221ba3a43710bf564a22da76e3e080c1d3624f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b7b31b00f349469ebf05b609cc4ec521574a4baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.0_85d924b107ca6f7e911f5c5455972d6f87c9260e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.0.0_2d6344706b0980c7f5121a5ef0d7699fa57c9045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.0_c9b186bf646ee9f5bf058851c3399d833e978d1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.0.0_7b477053a0e414ad59f19112948b4f5dd3c2653c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.0.0_136e7b6edce5f2492a179a2189f9800c0be9b363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.0.0_8c40c4b19e2419cc5d524a6b9e272b05d568377b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.0_fc76526c3c795991d658c1a9b4259549152587d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.0.0_acda665d9fd25508ce09eeafd9728a3de3f90a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_83489d0f514534fdb45eb9b1932a78cc1f43cd67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.0.0_ed15cf834a2066da2d79362954091fa1c848346e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.0.0_f0cf874f0242455c7e7a85d8185cd4f052c6604d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_f1778c3f255f4b14df164b7d58c38f860ecc1ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.0.0_95e22f1a5f25a7f0305d28d9ba29608e561a5dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.0.0_fa61b994366b443c7118a614f175021d7410535b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5f15be1811ffac204ec7c45b47dbbfc8355202a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.0.0_b46d85ff73182a905baadf263997bb1bbac25d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.0.0_9a6381e60bfa57b9ae9d0f361ee57fbec5aec642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.0.0_dc4d6a38b6ef7a75c9d30b9bc522f953b750cc3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.0.0_495fc3e3fdb825779420cd4ea5e312d3a25e381d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.0.0_d97d601b11a75d266b74499724146016135cb48c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_aae9e90c8ae37060cc81e2ac123ef7d7bfc3bd47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_637b605c3a0f0727af3b0bf8ea35533266892fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.0.0_15c59bef5e30ab45326f6d1061f727ff43a4c5ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.0.0_c672b27c70e6a8e0cc4fffbd9850c0c792511825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.0.0_2409f44293db8eece89868feb7b0b70c7a017707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f8c488ea1acfadc47416f8c5d50c4eb8b26d4a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.0.0_fbad5c417a829f2fcd5f5deb8710376e2932cec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.0.0_5ca2e2a8b6d15070a9aff8c6a5eae040b82afcbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Viking/Downloads/SOS1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/Viking/Downloads/SOS1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.0_40774d1e4e6ace64b35e0b086c16b028f53050e4.jar" />
+    </item>
+
+</items>
